@@ -1,0 +1,11 @@
+btrack>=0.6.5
+cellpose>=4.0.6
+geopandas>=1.1.1
+matplotlib>=3.10.6
+numpy==2.2.6
+pandas>=2.3.2
+pystackreg>=0.2.8
+rasterio>=1.4.3
+scikit-image>=0.25.2
+shapely>=2.1.2
+tqdm>=4.67.1
