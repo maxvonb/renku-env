@@ -4,9 +4,12 @@ geopandas>=1.1.1
 matplotlib>=3.10.6
 numpy==2.2.6
 pandas>=2.3.2
+polars>=1.33.1
+pyarrow>=21.0.0
+pyboat>=0.9.12
 pystackreg>=0.2.8
 rasterio>=1.4.3
+rpy2>=3.6.4
 scikit-image>=0.25.2
 shapely>=2.1.2
 tqdm>=4.67.1
-pyarrow>=21.0.0
